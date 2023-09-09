@@ -1,4 +1,5 @@
 #Exploratory Data Analysis (EDA) of Highest Grossing Movies Dataset
+
 In the world of data analysis, the journey often starts with exploring your dataset. Understanding your data, finding patterns, and extracting meaningful insights are crucial steps in the process. In this project, we'll dive into Exploratory Data Analysis (EDA) using Python and some essential libraries: Matplotlib, Seaborn, NumPy, and Pandas.
 
 Why Matplotlib?
